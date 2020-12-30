@@ -1,6 +1,6 @@
 # Hello! ✌️
 
-![m4rkey's github stats](https://github-readme-stats.vercel.app/api?username=m4rkey&count_private=true&show_icons=true&theme=tokyonight)
+![m4rkey's github stats](https://github-readme-stats.vercel.app/api?username=m4rkey&count_private=true&show_icons=true&theme=radical)
 
 Languages: C++, C#, Lua, SourcePawn, Typescript, Javascript
 
